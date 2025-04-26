@@ -1,0 +1,2 @@
+This is an online chess game which allows users to play real-time chess against other players over the web.  
+It's developed using Express, Chess.js, and Socket.io for real-time communication between players.
